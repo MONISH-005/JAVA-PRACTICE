@@ -19,3 +19,25 @@ public class Diamond {
         }
     }
 }
+
+
+/* This program will execute diamond pattern.
+This code helps you understand nested for loops for structured pattern printing, using mathematical logic (2 * i - 1) to control star counts dynamically. 
+It reinforces loop control for increasing and decreasing sequences, demonstrating forward and reverse iteration to create symmetric design
+
+OUTPUT
+      *
+     ***
+    *****
+   *******
+  *********
+ ***********
+*************
+ ***********
+  *********
+   *******
+    *****
+     ***
+      *
+
+    */
